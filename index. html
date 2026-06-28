@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Futi | Digitalpreneur</title>
+
+<style>
+
+body{
+font-family:Arial,sans-serif;
+background:#fff7fa;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+margin:0;
+}
+
+.card{
+background:white;
+padding:40px;
+border-radius:20px;
+box-shadow:0 10px 30px rgba(0,0,0,.1);
+text-align:center;
+max-width:500px;
+}
+
+h1{
+color:#ff5b9f;
+}
+
+button{
+padding:15px 30px;
+background:#ff5b9f;
+color:white;
+border:none;
+border-radius:10px;
+cursor:pointer;
+font-size:16px;
+}
+
+button:hover{
+background:#ff3d89;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="card">
+
+<h1>Futi | Digitalpreneur</h1>
+
+<p>
+Welcome to my official website.
+This website is currently under development.
+</p>
+
+<button>Coming Soon 🚀</button>
+
+</div>
+
+</body>
+
+</html>
